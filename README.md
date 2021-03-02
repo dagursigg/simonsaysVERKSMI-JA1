@@ -30,3 +30,5 @@ Kassinn var hannaður í inkscape.
 - 
 - ![](https://github.com/dagursigg/simonsaysVERKSMI-JA1/blob/main/TAKKAR.jpeg)
 ---
+## Lokaorð
+- Ég lærði mikið úr þessu verkefni og hélt að ég hefði verið eini sem náði þessu en svo klúðraðist þetta hjá mér, þrátt fyrir mistökin þá er ég sáttur með alla þessa vinnu og metnað sem ég setti í þetta verkefni og útkomuna á því.
