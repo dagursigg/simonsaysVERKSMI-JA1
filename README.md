@@ -4,5 +4,5 @@
 
 ##  Simon Says kassi
 Kassinn var hannaður í inkscape.
-- ![Hér](https://github.com/dagursigg/simonsaysVERKSMI-JA1/blob/main/KASSI%20DESIGN.png) er mynd af honum.
-- ![Hér](https://github.com/dagursigg/simonsaysVERKSMI-JA1/blob/main/KASSIOFANA.jpeg) er mynd af kassanum ofan á, ljósin komu út að ofan.
+- Hér er mynd af hönnunninni kassans. ![](https://github.com/dagursigg/simonsaysVERKSMI-JA1/blob/main/KASSI%20DESIGN.png)
+- Hér er mynd af kassanum ofan á, ljósin komu út að ofan.![](https://github.com/dagursigg/simonsaysVERKSMI-JA1/blob/main/KASSIOFANA.jpeg)
