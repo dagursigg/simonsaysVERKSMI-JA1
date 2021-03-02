@@ -1,5 +1,6 @@
 # Simon Says Verkefni
 - VESM1, Tölvubraut, Tækniskólinn.
+- Höfundur, ***Dagur Sigurðsson***
 ---
 
 ##  Simon Says kassi
