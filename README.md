@@ -1,2 +1,6 @@
-# verkefni4VESM1V5
-hallo
+# Simon Says Verkefni
+- VESM1, Tölvubraut, Tækniskólinn.
+---
+
+##  Simon Says kassi
+
